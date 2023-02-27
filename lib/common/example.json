@@ -1,0 +1,25 @@
+{
+    "id": "002RadioTV.do",
+    "name": "002 Radio TV",
+    "alt_names": [],
+    "network": null,
+    "owners": [],
+    "country": "DO",
+    "subdivision": null,
+    "city": null,
+    "broadcast_area": [
+        "c/DO"
+    ],
+    "languages": [
+        "spa"
+    ],
+    "categories": [
+        "general"
+    ],
+    "is_nsfw": false,
+    "launched": null,
+    "closed": null,
+    "replaced_by": null,
+    "website": "https://www.002radio.com/",
+    "logo": "https://i.imgur.com/7oNe8xj.png"
+}
